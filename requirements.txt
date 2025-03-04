@@ -1,0 +1,9 @@
+groq
+langchain_chroma
+langchain_community
+langchain_text_splitters
+mysql_connector_repackaged
+python-dotenv
+streamlit
+sentence-transformers
+pypdf
