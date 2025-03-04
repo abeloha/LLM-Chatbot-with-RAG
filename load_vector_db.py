@@ -29,8 +29,6 @@ embeddings = HuggingFaceEmbeddings(
     encode_kwargs=encode_kwargs # Pass the encoding options
 )
 
-
-
 # loading the PDF document
 loader = PyPDFDirectoryLoader(DATA_PATH)
 raw_documents = loader.load()

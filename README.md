@@ -4,6 +4,16 @@
 
 This project is a prototype AI chatbot designed to automate customer service interactions for businesses. It leverages Retrieval-Augmented Generation (RAG) to improve response accuracy by combining Large Language Models (LLMs) with vector-based document retrieval.
 
+## Preview
+
+### Landing page
+
+![Landing Page](images/landing_page.png)
+
+### Chat page
+
+![Chat Page](images/chat_page.png)
+
 ## Features
 
 - **Conversational AI**: Uses an LLM to generate human-like responses.
@@ -37,7 +47,6 @@ This project is a prototype AI chatbot designed to automate customer service int
 - `transformers`
 - `sentence-transformers`
 - `datasets`
-- `faiss-cpu`
 - `groq`
 - `langchain_chroma`
 - `langchain_community`
